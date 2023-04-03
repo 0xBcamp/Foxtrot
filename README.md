@@ -2,11 +2,11 @@
 
 
 
-Your Go To Solution For Financial Education with a Gamified experience using Web3.
+Your Go To Solution For Financial Education with a Gamified experience using Web2 and Web3.
 ![MOOUKIN_a_fox_trotting_along_the_blockchain_in_a_forest_wearing-conversion](https://user-images.githubusercontent.com/41453896/228240483-e184ceb4-4adc-4c2f-b27f-fd00a595fcd7.jpg)
 
 
-Experiment with web3 technology and investing using our Decentralized Application and existing educational platforms.
+Experiment with web3 technology and investing using our hybrid mix Decentralized Application UI and existing educational platforms from Web2.
 
 Quick Start:
 
